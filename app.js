@@ -1,4 +1,4 @@
-import { add, sub, mul, divd } from '../calculations.js';
+import { add, sub, mul, divd } from './calculations.js';
 
 //ADD
 const addInput1 = document.getElementById('add-num1');
