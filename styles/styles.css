@@ -34,3 +34,33 @@ footer {
     padding: 10px;
 }
 
+#add-btn {
+    background-color:cadetblue;
+    border-radius: 10px;
+}
+
+#sub-btn {
+    background-color:darkgoldenrod;
+    border-radius: 10px;
+}
+
+#mul-btn {
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+#divd-btn {
+    background-color: brown;
+    border-radius: 10px;
+}
+
+#add-num1, #sub-num1, #mul-num1, #divd-num1 {
+    background-color:darkseagreen;
+    border-radius: 5px;
+}
+
+#add-num2, #sub-num2, #mul-num2, #divd-num2 {
+    background-color:darksalmon;
+    border-radius: 5px;
+}
+
